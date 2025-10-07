@@ -37,10 +37,11 @@ INC R0
 DOWN:DJNZ R6,LOOP
 MOV R1,#02H
 DJNZ R1,LOOP1
-EN
+END
 ```
 ## OUTPUT(Ascending order)
-<img width="1426" height="727" alt="Screenshot 2025-10-07 201954" src="https://github.com/user-attachments/assets/6cbbb2da-3f26-46ba-839c-bab480c85ec5" />
+<img width="1426" height="727" alt="Screenshot 2025-10-07 201954" src="https://github.com/user-attachments/assets/ad09f983-0d2c-45d5-bfd1-d421b421ab17" />
+
 
 
 ---
