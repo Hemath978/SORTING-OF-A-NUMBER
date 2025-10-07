@@ -58,7 +58,8 @@ END
    - If **No**, repeat the process from Step 2.  
    - If **Yes**, stop the program.  
 ---
-## Program (Descending order)
+## Program (Descending order) 
+```
 ORG 0000H
 LOOP1:MOV R0,#40H
 MOV R6,30H
